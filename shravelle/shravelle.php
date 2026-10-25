@@ -3,6 +3,8 @@
  * Plugin Name: Shravelle Monitoring
  * Description: Real user monitoring (page speed, Core Web Vitals, JS errors) and PHP error/slow-request reporting for WordPress, sent to your Shravelle server.
  * Version: 1.0.0
+ * Requires at least: 5.0
+ * Requires PHP: 7.0
  * Author: Shravelle
  * License: MIT
  */
