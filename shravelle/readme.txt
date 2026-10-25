@@ -1,5 +1,8 @@
 === Shravelle Monitoring ===
 Stable tag: 1.0.0
+Requires at least: 5.0
+Requires PHP: 7.0
+Tested up to: 6.6
 License: MIT
 
 Real user monitoring and PHP error reporting for WordPress, sent to your own Shravelle server.
